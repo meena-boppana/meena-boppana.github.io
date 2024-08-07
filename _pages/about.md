@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a lifelong math lover, Meena found her passion in teaching mathematics. She relishes breaking down a complex concept and celebrating the “aha” moment when a student truly gets it. Meena was on the mathematics faculty at Boston’s Commonwealth School, teaching advanced courses spanning calculus, statistics, and computer science. She earned her Ed.M. from the Harvard Graduate School of Education and her A.B. in computer science from Harvard College. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+An avid problem solver, Meena earned national recognition for qualifying at age 16 for the USA Math Olympiad (USAMO). As a student representing New York at national competitions, Meena was at times the only girl in the room. Meena established the student organization Harvard University Gender Inclusivity in Math as an undergraduate and currently works with the national Math Prize for Girls competition. She is passionate about helping students of all backgrounds gain confidence in math.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Meena has experience working with students across grades 6-12.  Her approach combines patience with rigor, focusing on conceptual understanding over drilling and formulas. She also designs customized enrichment courses for those looking to get ahead.
