@@ -19,5 +19,6 @@ An avid problem solver, Meena earned national recognition for qualifying at age 
 
 Meena has experience working with students across grades 6-12.  Her approach combines patience with rigor, focusing on conceptual understanding over drilling and formulas. She also designs customized enrichment courses for those looking to get ahead.
 
+<br />
 
 ## Contact
