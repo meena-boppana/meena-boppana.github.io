@@ -21,14 +21,6 @@ Meena has experience working with students across grades 6-12.  Her approach com
 
 
 ## Contact
-
-
-<html>
-<head>
-  <title>Contact me</title>
-</head>
-
-<body>
 <form method="post" action="https://forms.un-static.com/forms/meenaboppana@gmail.com”>
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label>
@@ -64,8 +56,3 @@ Meena has experience working with students across grades 6-12.  Her approach com
     </div>
   </div>
 </form>
-<div align="center">
-  <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
-</div>
-</body>
-</html>
