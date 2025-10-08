@@ -21,9 +21,13 @@ Meena has experience working with students across grades 6-12.  Her approach com
 
 <br />
 
-### Testimonial
+### Testimonials
 
 "We highly recommend Meena Boppana!! She worked with my daughter this past year in her honors math course and helped her build her confidence in math. She was kind, patient, knowledgeable, and offered lots of example problems for her to work through. Thank you Meena!"  
+
+"Meena is very patient and clear in her explanations, which really helped my son feel confident. She made difficult Calculus topics easier to understand and offered encouragement every step of the way. She also assigned just the right amount of homework—enough for practice without being overwhelming. Once my son had his syllabus, she tailored the lessons to prepare him for what his class would cover, which gave him even more confidence in the subject. We are truly grateful for her support. She is very good and we highly recommended her."
+
+"Thank you for all your support this year. We could definitely feel how much our son benefited and learnt from you throughout the semester. And the additional problems and testing you gave him were so valuable. He has surely worked very hard this year, and we see a big improvement in both his aptitude as well as confidence. So thank you for that!"
 
 <br />
 
